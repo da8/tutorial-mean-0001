@@ -5,3 +5,15 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# dependencies
+/frontend/node_modules
+
+# compiled output
+/frontend/dist
+/frontend/tmp
+/frontend/out-tsc
+
+# System Files
+.DS_Store
+Thumbs.db
